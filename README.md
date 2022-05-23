@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+</div>
+<div align="center" >
+  
 ## Detail of my most used skills.
 ![Details](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLSantos21&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight&count_private=true)
 
