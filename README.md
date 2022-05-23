@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Detail of my most used skills.
+![Details](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLSantos21&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight&count_private=true)
+
+## My github stats!
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=JDLSantos21&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
+
 <!--
 **JDLSantos21/JDLSantos21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
