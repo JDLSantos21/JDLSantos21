@@ -1,7 +1,6 @@
 ### Bienvenido 👋
 
 </div>
-<div align="center" >
   
 ## My github stats!
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=JDLSantos21&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
