@@ -2,10 +2,6 @@
 
 </div>
 <div align="center" >
-  
-## Detail of my most used skills.
-![Details](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLSantos21&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight&count_private=true)
-
 ## My github stats!
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=JDLSantos21&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
 
@@ -14,6 +10,7 @@
 
 Here are some ideas to get you started:
 
+- Actualmente estoy trabajando en una API Rest con Node aplicando Clean Architecture y principios SOLID.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
